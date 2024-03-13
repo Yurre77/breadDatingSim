@@ -1,8 +1,14 @@
 # breadDatingSim
 
-This is a dating sim made by a collective group of idiots. The project was started sometime in 2022, after a bunch of people thought it would be funny. Therefore as a warning: **DO NOT TAKE THIS DATING SIM SERIOUSLY**.
+This is a dating sim made by a collective group of idiots, Therefore as a warning: **DO NOT TAKE THIS DATING SIM SERIOUSLY**. The project was started sometime in 2022, after a bunch of people from WildBeard's discord server thought it would be funny. 
+
+## Features
+
+- Domestic terrorism
+- Referenced memes
 
 ## Dependencies
+
 - [RenPy](https://www.renpy.org/)
 
 ## Related content
